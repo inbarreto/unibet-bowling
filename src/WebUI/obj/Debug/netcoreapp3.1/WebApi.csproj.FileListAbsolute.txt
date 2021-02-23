@@ -1,0 +1,613 @@
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.StaticWebAssets.xml
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.exe
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.deps.json
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.runtimeconfig.json
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.runtimeconfig.dev.json
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.pdb
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.Views.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.Application.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.Domain.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.Infrastructure.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.Application.pdb
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.Infrastructure.pdb
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Cashrewards.CRUDTest.Domain.pdb
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cashrewards.CRUDTest.WebUI.StaticWebAssets.Manifest.cache
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cashrewards.CRUDTest.WebUI.StaticWebAssets.xml
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.pdb
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Cashrewards.CRUDTest.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.StaticWebAssets.xml
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.exe
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.deps.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.runtimeconfig.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.runtimeconfig.dev.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.Application.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.Infrastructure.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.Application.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.Infrastructure.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.CRUDTest.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Unibet.CRUDTest.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Unibet.CRUDTest.WebUI.StaticWebAssets.xml
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Unibet.CRUDTest.WebUI.styles.css
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.CRUDTest.WebUI.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.StaticWebAssets.xml
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.exe
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.deps.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.runtimeconfig.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.runtimeconfig.dev.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Application.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Infrastructure.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Application.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Infrastructure.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Unibet.Challange.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Unibet.Challange.WebUI.StaticWebAssets.xml
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Unibet.Challange.WebUI.styles.css
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.pdb
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.StaticWebAssets.xml
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.exe
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.deps.json
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.runtimeconfig.json
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.runtimeconfig.dev.json
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.WebUI.pdb
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Application.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Domain.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Infrastructure.dll
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Application.pdb
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Infrastructure.pdb
+C:\Dev\Unibet\Bowling\src\WebUI\bin\Debug\netcoreapp3.1\Unibet.Challange.Domain.pdb
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Unibet.Challange.WebUI.StaticWebAssets.Manifest.cache
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Unibet.Challange.WebUI.StaticWebAssets.xml
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Unibet.Challange.WebUI.styles.css
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.dll
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\Unibet.Challange.WebUI.pdb
+C:\Dev\Unibet\Bowling\src\WebUI\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

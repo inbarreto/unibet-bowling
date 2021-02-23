@@ -1,0 +1,48 @@
+C:\Dev\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Application.deps.json
+C:\Dev\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Application.dll
+C:\Dev\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Application.pdb
+C:\Dev\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.dll
+C:\Dev\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.pdb
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Cashrewards.CRUDTest.Application.dll
+C:\Dev\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Cashrewards.CRUDTest.Application.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Unibet.CRUDTest.Application.deps.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Unibet.CRUDTest.Application.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Unibet.CRUDTest.Application.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Unibet.CRUDTest.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\bin\Debug\netstandard2.1\Unibet.CRUDTest.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Unibet.CRUDTest.Application.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Application\obj\Debug\netstandard2.1\Unibet.CRUDTest.Application.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Application.deps.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Application.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Application.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Unibet.Challange.Application.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Application\obj\Debug\netstandard2.1\Unibet.Challange.Application.pdb
+C:\Dev\Unibet\Bowling\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Application.deps.json
+C:\Dev\Unibet\Bowling\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Application.dll
+C:\Dev\Unibet\Bowling\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Application.pdb
+C:\Dev\Unibet\Bowling\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Domain.dll
+C:\Dev\Unibet\Bowling\src\Application\bin\Debug\netstandard2.1\Unibet.Challange.Domain.pdb
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Unibet.Challange.Application.dll
+C:\Dev\Unibet\Bowling\src\Application\obj\Debug\netstandard2.1\Unibet.Challange.Application.pdb

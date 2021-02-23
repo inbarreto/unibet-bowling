@@ -1,0 +1,36 @@
+C:\Dev\Cashrewards.CRUDTest\src\Domain\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.deps.json
+C:\Dev\Cashrewards.CRUDTest\src\Domain\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.dll
+C:\Dev\Cashrewards.CRUDTest\src\Domain\bin\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.pdb
+C:\Dev\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Dev\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Dev\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Dev\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.dll
+C:\Dev\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Cashrewards.CRUDTest.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\bin\Debug\netstandard2.1\Unibet.CRUDTest.Domain.deps.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\bin\Debug\netstandard2.1\Unibet.CRUDTest.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\bin\Debug\netstandard2.1\Unibet.CRUDTest.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Unibet.CRUDTest.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Cashrewards.CRUDTest\src\Domain\obj\Debug\netstandard2.1\Unibet.CRUDTest.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\bin\Debug\netstandard2.1\Unibet.Challange.Domain.deps.json
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\bin\Debug\netstandard2.1\Unibet.Challange.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\bin\Debug\netstandard2.1\Unibet.Challange.Domain.pdb
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\obj\Debug\netstandard2.1\Unibet.Challange.Domain.dll
+C:\Users\ignacio.barreto\Downloads\Cashrewards.CRUDTest\Unibet.CRUDTest - Copy\src\Domain\obj\Debug\netstandard2.1\Unibet.Challange.Domain.pdb
+C:\Dev\Unibet\Bowling\src\Domain\bin\Debug\netstandard2.1\Unibet.Challange.Domain.deps.json
+C:\Dev\Unibet\Bowling\src\Domain\bin\Debug\netstandard2.1\Unibet.Challange.Domain.dll
+C:\Dev\Unibet\Bowling\src\Domain\bin\Debug\netstandard2.1\Unibet.Challange.Domain.pdb
+C:\Dev\Unibet\Bowling\src\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Dev\Unibet\Bowling\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Dev\Unibet\Bowling\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Dev\Unibet\Bowling\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Unibet\Bowling\src\Domain\obj\Debug\netstandard2.1\Unibet.Challange.Domain.dll
+C:\Dev\Unibet\Bowling\src\Domain\obj\Debug\netstandard2.1\Unibet.Challange.Domain.pdb
