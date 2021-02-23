@@ -5,5 +5,6 @@ namespace Unibet.Challange.Application.Bowling.Command
 {
     public class CalculateBowlingScoreCommand : IRequest<BowlingDto>
     {
+        public int[] Scores { get; set; }
     }
 }
