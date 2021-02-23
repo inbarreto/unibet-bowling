@@ -1,9 +1,9 @@
-﻿using Unibet.Challange.Application.Common.Exceptions;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System;
 using System.Collections.Generic;
+using Unibet.Challange.Application.Common.Exceptions;
 
 namespace Unibet.Challange.WebUI.Filters
 {
@@ -17,7 +17,6 @@ namespace Unibet.Challange.WebUI.Filters
             _exceptionHandlers = new Dictionary<Type, Action<ExceptionContext>>
             {
                 { typeof(ValidationException), HandleValidationException },
-                { typeof(NotFoundException), HandleNotFoundException },
             };
         }
 
@@ -65,21 +64,6 @@ namespace Unibet.Challange.WebUI.Filters
             };
 
             context.Result = new BadRequestObjectResult(details);
-
-            context.ExceptionHandled = true;
-        }
-
-        private void HandleNotFoundException(ExceptionContext context)
-        {
-            var exception = context.Exception as NotFoundException;
-
-            var details = new ProblemDetails()
-            {
-                Title = "The specified resource was not found.",
-                Detail = exception.Message
-            };
-
-            context.Result = new NotFoundObjectResult(details);
 
             context.ExceptionHandled = true;
         }
