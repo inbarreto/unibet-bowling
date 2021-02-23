@@ -7,6 +7,7 @@ namespace Unibet.Challange.Application.Bowling.Command
         public CalculateBowlingScoreCommandValidator()
         {
             RuleFor(v => v.Scores).NotEmpty();
+            RuleFor(v => v.Scores.Length).LessThanOrEqualTo(21);
         }
     }
 }

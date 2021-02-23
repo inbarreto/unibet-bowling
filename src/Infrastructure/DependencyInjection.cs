@@ -9,8 +9,7 @@ namespace Unibet.Challange.Infrastructure
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
-
-            services.AddScoped<ICalculateBowl, BowlProvider>();
+            services.AddScoped<ICalculateBowl, BowlingProvider>();
             return services;
         }
     }

@@ -17,7 +17,8 @@ namespace Unibet.Challange.Application.Bowling.Command
 
         public async Task<BowlingDto> Handle(CalculateBowlingScoreCommand request, CancellationToken cancellationToken)
         {
-            return new BowlingDto() { FrameCompleted = await _calculateBowl.IsBowlFinished(request.Scores), Score = await _calculateBowl.CalculateBowlScore(request.Scores) };
+            (int, bool) result = await _calculateBowl.CalculateBowlScore(request.Scores);
+            return  new BowlingDto() { Score = result.Item1, FrameCompleted = result.Item2 };
         }
     }
 }
