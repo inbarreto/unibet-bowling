@@ -4,7 +4,6 @@ using System.Threading.Tasks;
 using Unibet.Challange.Application.Bowling.Command;
 using Unibet.Challange.Application.Common.Interfaces;
 using Xunit;
-using Xunit.Extensions;
 
 namespace Application.UnitTest.Command
 {
@@ -31,14 +30,13 @@ namespace Application.UnitTest.Command
         }
 
         [Theory, MemberData(nameof(RollsData))]
-        public async Task CalculateBowlingScore_AllStrikes(int[] rolls, bool isFrameComplete, int totalScore)
+        public async Task CalculateBowlingScore(int[] rolls, bool isFrameComplete, int totalScore)
         {
-            var x = new int[] { 10,10};
             var handler = new CalculateBowlingScoreCommandHandler(_calculateBowl);
 
             var result = await handler.Handle(new CalculateBowlingScoreCommand() { Scores = rolls }, new CancellationToken());
 
-            Assert.Equal(totalScore,result.Score);
+            Assert.Equal(totalScore, result.Score);
             Assert.Equal(isFrameComplete, result.FrameCompleted);
         }
     }
